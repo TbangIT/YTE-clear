@@ -16,8 +16,8 @@ new Layout:
 <div align="center">
 <img src="bgnew.png" width="600">
 </div>
-old layout:
-<div>
+<p>old layout: </p>
+<div align="center">
 
 <img src="options menu 1.jpg" width="600">
 <img src="bg555.jpg" width="470">
