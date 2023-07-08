@@ -10,7 +10,7 @@ Sono state apportate le seguenti modifiche rispetto al progetto originario:
 
 Queste modifiche le ho apportate di corsa senza applicarmi e, come la manutenzione stessa del codice, non penso che lo script riceverà aggiornamenti futuri in caso di errori o modifiche di youtube stesso, non ho nè tempo nè voglia di applicarmi su questo
 
-dato che ancora non è stato publicato su gresyfork o openuserjs, installare lo script manualmente.
+dato che ancora non è stato publicato su gresyfork o openuserjs, installare lo script manualmente (YDE-tampermonkey).
 
 new Layout:
 <div align="center">
