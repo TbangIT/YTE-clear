@@ -12,6 +12,7 @@ Queste modifiche le ho apportate di corsa senza applicarmi e, come la manutenzio
 
 dato che ancora non è stato publicato su gresyfork o openuserjs, installare lo script manualmente.
 
+new Layout:
 
 
 <div align="center">
