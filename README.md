@@ -7,7 +7,7 @@ Sono state apportate le seguenti modifiche rispetto al progetto originario:
 - la dimensione e il titolo del div che li conteneva è stata ripristinata allo stato originale di youtube, addio titolo rosso e centrato!
 - tema scuro sui nuovi pulsanti (seriamente, una volta creata una funzione interna al codice per avere youtube dark mi sembra il minimo cambiare un valore del css)
 - pulsante traduzione rimosso (anche quello a livello grafico inguardabile, tuttavia, invece di modificarlo ho deciso di toglierlo e ricorrere ad un altro script che si integra molto bene con il tema di youtube: https://greasyfork.org/it/scripts/456108-youtube%E8%AF%84%E8%AE%BA%E7%BF%BB%E8%AF%91%E6%8C%89%E9%92%AE)
-- minuscole rettifiche sul concetto di "all in one with no external services"
+- minuscole rettifiche sul concetto di "all in one without external services"
 
 Queste modifiche le ho apportate di corsa senza applicarmi e, come la manutenzione stessa del codice, non penso che lo script riceverà aggiornamenti futuri in caso di errori o modifiche di youtube stesso, non ho nè tempo nè voglia di applicarmi su questo
 
